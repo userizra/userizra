@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### `npx fka`
+
+
+Hello, this is **Izra Bereket**
+
+I'm a passionate **software developer** living in the **United States**, working for [Abbott]([https://www.abbott.com]) as a **SDE/DevOps Engineer**.
+I love learning more about the world of technology, I like to read a lot as well.
+I love **Python**.
+
+> P.S. To read this intro on terminal, just run `npx fka`. But why? -- why not? 🤷🏻‍♂️
+
+<details>
+  <summary>More...</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=f&show_icons=true&count_private=true&theme=dark" />
+</details>
