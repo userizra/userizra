@@ -26,7 +26,4 @@ I love **Python**.
 
 > P.S. To read this intro on terminal, just run `npx fka`. But why? -- why not? 🤷🏻‍♂️
 
-<details>
-  <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=f&show_icons=true&count_private=true&theme=dark" />
-</details>
+Projects on the way very soon :)
