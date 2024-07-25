@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ### `npx fka`
 
+Take a look at my website -> https://userizra.github.io/portfolio/ <-
 
-Hello, this is **Izra Bereket**
+Hello, this is **Izra Bereket** 
 
 I'm a passionate **software developer** living in the **United States**, working for [Abbott]([https://www.abbott.com]) as a **SDE/DevOps Engineer**.
 I love learning more about the world of technology, I like to read a lot as well.
